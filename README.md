@@ -1,0 +1,1 @@
+# Dado-da-Sorte-Generation
